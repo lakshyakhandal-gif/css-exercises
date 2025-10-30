@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-text{
+    background-color: rgb(240, 168, 168);
+    font-family: 'Verdana', 'dejaVusans', 'sans-serif';
+}
+.odd-text.three{
+    font-size: 24px;
+}
+.fourth-line{
+    background-color: rgb(156, 227, 156);
+    font-size: 24px;
+    font-weight: bold;
+}
+.second-line{
+    font-size: 36px;
+    color:blue;
+}
